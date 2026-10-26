@@ -295,7 +295,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
   padding:72px 0 82px;
   background:
     linear-gradient(90deg,rgba(255,255,255,.98) 0%,rgba(255,255,255,.95) 30%,rgba(255,255,255,.60) 50%,rgba(255,255,255,.10) 76%),
-    url("./assets/hero-red-car.png") 46% 57% / 118% auto no-repeat !important;
+    url("./assets/rainbow-hero.png") 46% 57% / 118% auto no-repeat !important;
 }
 .hero-grid{grid-template-columns:1.06fr .94fr !important;gap:90px !important;}
 .quote-card{transform:translateX(92px) !important;}
@@ -1283,7 +1283,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
       rgba(245,243,255,.82) 53%,
       rgba(245,243,255,.28) 76%
     ),
-    url("./assets/hero-red-car.png") 48% 55% / 112% auto no-repeat !important;
+    url("./assets/rainbow-hero.png") 48% 55% / 112% auto no-repeat !important;
 }
 
 .hero:after{
@@ -1411,7 +1411,7 @@ footer{background:#0b1220;color:#d6deeb;padding:50px 0 100px}
   .hero{
     background:
       linear-gradient(180deg,rgba(250,247,255,.96),rgba(255,255,255,.96)),
-      url("./assets/hero-red-car.png") center / cover no-repeat !important;
+      url("./assets/rainbow-hero.png") center / cover no-repeat !important;
   }
 
   .hero-grid{
